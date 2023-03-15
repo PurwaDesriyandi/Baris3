@@ -8,7 +8,7 @@ package com.mycompany.baris3;
  *
  * @author purwa
  */
-public class Baris3 {
+public class Kelompok3 {
 
     public static void main(String[] args) {
         System.out.println("Hello banggg!");
