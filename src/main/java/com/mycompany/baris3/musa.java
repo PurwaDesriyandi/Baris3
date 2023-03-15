@@ -9,5 +9,5 @@ package com.mycompany.baris3;
  * @author Musariul
  */
 public class musa {
-    
+   String name ;
 }
